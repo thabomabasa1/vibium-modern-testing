@@ -1,0 +1,12 @@
+{
+  "name": "vibium-modern-testing",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node src/runner.js"
+  },
+
+  "dependencies": {
+    "vibium": "^0.1.2"
+  }
+}
